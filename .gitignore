@@ -4,3 +4,5 @@
 .vscode
 cdk.out
 cdktf.out
+**/*/bin
+**/*/obj

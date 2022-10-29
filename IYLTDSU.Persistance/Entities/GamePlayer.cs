@@ -1,4 +1,5 @@
 ﻿using Amazon.DynamoDBv2.DataModel;
+using IYLTDSU.Persistance.Interfaces;
 using IYLTDSU.Shared;
 
 namespace IYLTDSU.Persistance.Entities

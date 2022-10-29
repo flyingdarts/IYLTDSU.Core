@@ -1,4 +1,4 @@
-﻿namespace IYLTDSU.Persistance.Entities
+﻿namespace IYLTDSU.Persistance.Interfaces
 {
     public interface IGameSettings
     {

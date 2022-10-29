@@ -1,4 +1,6 @@
-﻿namespace IYLTDSU.Persistance.Entities
+﻿using IYLTDSU.Persistance.Interfaces;
+
+namespace IYLTDSU.Persistance.Entities
 {
     public class X01GameSettings : IGameSettings
     {

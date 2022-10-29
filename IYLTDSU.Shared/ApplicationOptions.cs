@@ -1,6 +1,6 @@
 ﻿using Amazon.DynamoDBv2.DataModel;
 
-namespace IYLTDSU.Backend.LambdaApi;
+namespace IYLTDSU.Business;
 
 public class ApplicationOptions
 {
